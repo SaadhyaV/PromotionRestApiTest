@@ -1,0 +1,12 @@
+{
+  "__DecisionID__": "string",
+  "Promotion": {
+    "id": 3,
+    "promotionName": "string",
+    "promotionState": "Texas",
+    "startDate": "2020-03-04T13:44:14.000-0500",
+    "endDate": "2020-03-24T02:36:28.000-0400",
+    "discountAmount": 10517320,
+    "eligibility": false
+  }
+}
